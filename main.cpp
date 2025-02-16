@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(void) {
-    std::cout << "Version 0";
+    std::cout << "Version 1";
     return 0;
 }
